@@ -14,4 +14,4 @@
 
 - [Naming Conventions Best Practices](https://github.com/kettanaito/naming-cheatsheet)
 
-  
+- [React Philosophies](https://github.com/mithi/react-philosophies)
